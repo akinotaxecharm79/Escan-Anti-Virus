@@ -205,3 +205,6 @@ This repository serves as the official landing page for eScan Anti-virus. The so
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of eScan Anti-virus today!**
+
+---
+**Last updated:** 2026-11-05 22:38:54 UTC
